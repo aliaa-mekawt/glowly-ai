@@ -1,0 +1,6 @@
+{
+  "name": "Glowly AI — Premium Personalized Beauty & Self-Care Platform",
+  "description": "AI-powered personalized skincare routines, smart beauty product finder, makeup academy, ingredient decoder, and self-care planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
